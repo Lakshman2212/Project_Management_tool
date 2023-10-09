@@ -10,7 +10,7 @@ body {
     max-width: 1100px;
     margin: 2rem auto;
     padding: 2rem;
-    background-color: #2f4a56;
+    background-color: #131c21;
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
@@ -21,7 +21,7 @@ header, #main-content {
 }
 
 h1 {
-    color: #f54748;
+    color: #d20808;
     font-size: 2.5em;
     margin: 0;
 }
